@@ -32,7 +32,7 @@
     "react": "^16.13.1",
     "react-helmet": "^6.1.0",
     "reason-react": ">=0.8.0",
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.6",
